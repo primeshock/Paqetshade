@@ -62,7 +62,7 @@ paqet uses raw TCP packet injection to create a tunnel that:
 
 ```bash
 # Run on both servers (as root)
-bash <(curl -fsSL https://raw.githubusercontent.com/g3ntrix/paqet-tunnel/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/primeshock/Paqetshade/refs/heads/main/install.sh)
 ```
 
 ### Install as Command (Optional)
@@ -82,7 +82,7 @@ This installs the script to `/usr/local/bin/paqet-tunnel` so you can run it anyt
 
 ```bash
 ssh root@<SERVER_B_IP>
-bash <(curl -fsSL https://raw.githubusercontent.com/g3ntrix/paqet-tunnel/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/primeshock/Paqetshade/refs/heads/main/install.sh)
 ```
 
 1. Select option **1** (Setup Server B)
@@ -95,7 +95,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/g3ntrix/paqet-tunnel/main/in
 
 ```bash
 ssh root@<SERVER_A_IP>
-bash <(curl -fsSL https://raw.githubusercontent.com/g3ntrix/paqet-tunnel/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/primeshock/Paqetshade/refs/heads/main/install.sh)
 ```
 
 > **Note:** If download is blocked in Iran, the installer will ask for a local file path. Download the paqet binary manually and provide the path.
