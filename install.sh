@@ -2,8 +2,7 @@
 #===============================================================================
 #  paqet Tunnel Installer
 #  Raw packet-level tunneling for bypassing network restrictions
-#  
-#  Usage: bash <(curl -fsSL https://raw.githubusercontent.com/g3ntrix/paqet-tunnel/main/install.sh)
+
 #  
 #  This script downloads paqet binary from: https://github.com/hanselime/paqet
 #===============================================================================
